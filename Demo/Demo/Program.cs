@@ -38,7 +38,7 @@ Console.WriteLine($"Sie haben die Zahl {ZahlEingabe} eingegeben");
 
 
 String beispielString = ZahlEingabe.ToString();
-*/
+
 
 
 //neues Zahlenarray mit Länge 5 und wird mit Werten befüllt
@@ -97,6 +97,50 @@ else
     Console.WriteLine("Die Summe ist kleiner  10");
 }
 
+
+String wiederholen = "";
+do
+{
+    //neues Zahlenarray mit Länge 5 und wird mit Werten befüllt
+    int[] Zahlen2 = new int[] { 2, 2, 2, 2, 2 };
+
+
+    if (Zahlen2.Sum() > 10)
+    {
+        Console.WriteLine("Die Summe ist größer als 10");
+    }
+    else if (Zahlen2.Sum() == 10)
+    {
+        Console.WriteLine("Die Summe ist gleich 10");
+    }
+    else
+    {
+        Console.WriteLine("Die Summe ist kleiner  10");
+    }
+
+    Console.WriteLine("Wollen sie das program erneut starten? (j/n)");
+    wiederholen = Console.ReadLine();
+
+} while (wiederholen == "j");
+*/
+
+
+
+//neues int array mit 5 elementen
+int[] Zahlen = new int[] { 2, 5, 7, 9, 12 };
+
+//for schleife gibt jede Zahl aus
+for(int i  = 0; i < Zahlen.Length; i++)
+{
+    Console.WriteLine(Zahlen[i]+" der Index ist " +i);
+}
+Console.WriteLine("Schleife zu Ende");
+
+//foreach schleife gibt jede Zahl aus
+foreach(int Zahl in Zahlen)
+{
+    Console.WriteLine(Zahl);
+}
 
 
 

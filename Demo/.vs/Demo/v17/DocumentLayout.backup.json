@@ -5,6 +5,9 @@
     {
       "AbsoluteMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|c:\\users\\de2\\onedrive - ppedv ag\\anlagen\\schulungsunterlagen\\c# grundkurs\\csharpprogrammierung-spracheund.netgrundlagen-244306\\demo\\demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
       "RelativeMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\Rev2\\M-004-CS-Grundkurs Schleifen und Enums\\M-004-LabLoesung.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -14,8 +17,21 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 0,
+          "SelectedChildIndex": 1,
           "Children": [
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "M-004-LabLoesung.cs",
+              "DocumentMoniker": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\Rev2\\M-004-CS-Grundkurs Schleifen und Enums\\M-004-LabLoesung.cs",
+              "RelativeDocumentMoniker": "..\\..\\Rev2\\M-004-CS-Grundkurs Schleifen und Enums\\M-004-LabLoesung.cs",
+              "ToolTip": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\Rev2\\M-004-CS-Grundkurs Schleifen und Enums\\M-004-LabLoesung.cs",
+              "RelativeToolTip": "..\\..\\Rev2\\M-004-CS-Grundkurs Schleifen und Enums\\M-004-LabLoesung.cs",
+              "ViewState": "AgIAAEMAAAAAAAAAAAAgwGAAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2025-02-18T13:55:06.737Z",
+              "EditorCaption": ""
+            },
             {
               "$type": "Document",
               "DocumentIndex": 0,
@@ -24,7 +40,7 @@
               "RelativeDocumentMoniker": "Demo\\Program.cs",
               "ToolTip": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Program.cs*",
               "RelativeToolTip": "Demo\\Program.cs*",
-              "ViewState": "AgIAAEkAAAAAAAAAAAAgwFgAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAKEAAAAAAAAAAAAgwLMAAABEAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T09:49:40.933Z",
               "EditorCaption": ""
