@@ -15,6 +15,12 @@ namespace Demo
 
         }
 
+        // Methode Hupen wird nochmals überschrieben
+        public override void Hupen()
+        {
+            Console.WriteLine("Kombi Hupt!");
+        }
+
         // Info Methode kann nicht überschrieben werden, da sie versiegelt ist
 
         /*public override void Info()

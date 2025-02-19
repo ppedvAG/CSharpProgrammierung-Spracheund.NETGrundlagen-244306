@@ -11,13 +11,34 @@ class Program
     static void Main(string[] args)
     {
 
+        Fahrzeug fahrzeug = new Auto("blau", "Benzin", 180, 5);
+        Auto auto = new Auto("blau", "Benzin", 180, 2);
+        Auto kombi = new Kombi();
+        kombi.Beschleunige(10);
 
+        Fahrzeug[] fahrzeuge = new Fahrzeug[3];
+        fahrzeuge[0] = fahrzeug;
+        fahrzeuge[1] = auto;
+        fahrzeuge[2] = kombi;
+
+        int summeGeschwindigkeit = 0;
+        for (int i = 0;i<3;i++) {
+            summeGeschwindigkeit+= ((Fahrzeug)fahrzeuge[i]).GetGeschwindigkeit();
+        }
+        System.Console.WriteLine(summeGeschwindigkeit/3);
+
+
+        fahrzeug.Hupen();
+        auto.Hupen();
+        kombi.Hupen();
+    }
+        /*
         Fahrzeug fahrzeug = new Fahrzeug("Rot", "Benzin", 180);
         Auto auto = new Auto("Rot", "Benzin", 180, 5);
         fahrzeug.Info(); // Aufruf der Info Methode von der Basisklasse
         auto.Info(); // Aufruf der überschriebenen Info Methode der abgeleiteten Klasse
 
-        /*// Methode Addieren wird aufgerufen
+        // Methode Addieren wird aufgerufen
         int Ergebnis = Addieren(5, 3);
         // Ergebnis wird ausgegeben
         Console.WriteLine(Ergebnis);
@@ -167,7 +188,7 @@ class Program
             Console.WriteLine(Zahl);
         }
         */
-    }
+    
     // Methode Addieren mit 2 Parametern
     /*static int Addieren(int a, int b)
     {

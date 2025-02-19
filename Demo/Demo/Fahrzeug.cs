@@ -2,7 +2,7 @@
 
 namespace Demo
 {
-    public class Fahrzeug
+    public abstract class Fahrzeug
     {
 
         // Eigenschaften
@@ -99,6 +99,9 @@ namespace Demo
         {
             Console.WriteLine("Ich bin ein Fahrzeug");
         }
+
+        // abstrakte Methode Hupen
+        public abstract void Hupen();
 
     }
 }

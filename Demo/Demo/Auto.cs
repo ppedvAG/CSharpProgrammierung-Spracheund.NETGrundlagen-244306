@@ -33,5 +33,11 @@ namespace Demo
         {
             Console.WriteLine("Ich bin ein Auto");
         }
+
+        // Methode Hupen wir überschrieben
+        public override void Hupen()
+        {
+            Console.WriteLine("Auto Hupt!");
+        }
     }
 }
