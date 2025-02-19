@@ -4,23 +4,27 @@
 
 
 
+using Demo;
+
 class Program
 {
-    // Methode Addieren mit 2 Parametern
-    static int Addieren(int a, int b)
-    {
-        return a+b;
-    }
     static void Main(string[] args)
     {
-        // Methode Addieren wird aufgerufen
+
+
+        Fahrzeug fahrzeug = new Fahrzeug("Rot", "Benzin", 180);
+        Auto auto = new Auto("Rot", "Benzin", 180, 5);
+        fahrzeug.Info(); // Aufruf der Info Methode von der Basisklasse
+        auto.Info(); // Aufruf der überschriebenen Info Methode der abgeleiteten Klasse
+
+        /*// Methode Addieren wird aufgerufen
         int Ergebnis = Addieren(5, 3);
         // Ergebnis wird ausgegeben
         Console.WriteLine(Ergebnis);
         Console.ReadKey();
 
 
-        /*// neue Variable Nummer wird der Wert 5 zugewiesen
+        // neue Variable Nummer wird der Wert 5 zugewiesen
         int Nummer;
         Nummer = 5;
         // Variable Nummer wird ausgegeben
@@ -164,6 +168,11 @@ class Program
         }
         */
     }
+    // Methode Addieren mit 2 Parametern
+    /*static int Addieren(int a, int b)
+    {
+        return a+b;
+    }*/
 }
 
 
