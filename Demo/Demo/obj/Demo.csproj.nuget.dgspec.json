@@ -1,17 +1,17 @@
 {
   "format": 1,
   "restore": {
-    "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\demo\\Demo\\Demo.csproj": {}
+    "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Demo.csproj": {}
   },
   "projects": {
-    "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\demo\\Demo\\Demo.csproj": {
+    "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Demo.csproj": {
       "version": "1.0.0",
       "restore": {
-        "projectUniqueName": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\demo\\Demo\\Demo.csproj",
+        "projectUniqueName": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Demo.csproj",
         "projectName": "Demo",
-        "projectPath": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\demo\\Demo\\Demo.csproj",
+        "projectPath": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Demo.csproj",
         "packagesPath": "C:\\Users\\de2\\.nuget\\packages\\",
-        "outputPath": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\demo\\Demo\\obj\\",
+        "outputPath": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\obj\\",
         "projectStyle": "PackageReference",
         "fallbackFolders": [
           "C:\\Program Files (x86)\\Microsoft Visual Studio\\Shared\\NuGetPackages"

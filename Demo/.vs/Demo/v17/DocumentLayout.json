@@ -7,16 +7,16 @@
       "RelativeMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|solutionrelative:demo\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|c:\\users\\de2\\onedrive - ppedv ag\\anlagen\\schulungsunterlagen\\c# grundkurs\\csharpprogrammierung-spracheund.netgrundlagen-244306\\demo\\demo\\kombi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|solutionrelative:demo\\kombi.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\bin\\Debug\\net8.0\\fahrzeuge.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}",
+      "RelativeMoniker": "D:0:0:{A2FE74E1-B743-11D0-AE1A-00A0C90FFFC3}|\u003CMiscFiles\u003E|solutionrelative:Demo\\bin\\Debug\\net8.0\\fahrzeuge.json||{90A6B3A7-C1A3-4009-A288-E2FF89E96FA0}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|c:\\users\\de2\\onedrive - ppedv ag\\anlagen\\schulungsunterlagen\\c# grundkurs\\csharpprogrammierung-spracheund.netgrundlagen-244306\\demo\\demo\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|solutionrelative:demo\\auto.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|c:\\users\\de2\\onedrive - ppedv ag\\anlagen\\schulungsunterlagen\\c# grundkurs\\csharpprogrammierung-spracheund.netgrundlagen-244306\\demo\\demo\\fahrzeugpark\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|solutionrelative:demo\\fahrzeugpark\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
-      "AbsoluteMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|c:\\users\\de2\\onedrive - ppedv ag\\anlagen\\schulungsunterlagen\\c# grundkurs\\csharpprogrammierung-spracheund.netgrundlagen-244306\\demo\\demo\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|solutionrelative:demo\\fahrzeug.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|c:\\users\\de2\\onedrive - ppedv ag\\anlagen\\schulungsunterlagen\\c# grundkurs\\csharpprogrammierung-spracheund.netgrundlagen-244306\\demo\\demo\\fahrzeugpark\\pkw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{3182673F-3CC1-407A-BE10-80F005DFB7A8}|Demo\\Demo.csproj|solutionrelative:demo\\fahrzeugpark\\pkw.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     }
   ],
   "DocumentGroupContainers": [
@@ -30,41 +30,41 @@
           "Children": [
             {
               "$type": "Document",
-              "DocumentIndex": 1,
-              "Title": "Kombi.cs",
-              "DocumentMoniker": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Kombi.cs",
-              "RelativeDocumentMoniker": "Demo\\Kombi.cs",
-              "ToolTip": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Kombi.cs",
-              "RelativeToolTip": "Demo\\Kombi.cs",
-              "ViewState": "AgIAAAYAAAAAAAAAAAAAABUAAAAJAAAAAAAAAA==",
+              "DocumentIndex": 3,
+              "Title": "PKW.cs",
+              "DocumentMoniker": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Fahrzeugpark\\PKW.cs",
+              "RelativeDocumentMoniker": "Demo\\Fahrzeugpark\\PKW.cs",
+              "ToolTip": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Fahrzeugpark\\PKW.cs",
+              "RelativeToolTip": "Demo\\Fahrzeugpark\\PKW.cs",
+              "ViewState": "AgIAAAkAAAAAAAAAAAAAAA0AAAAaAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:28:28.766Z",
+              "WhenOpened": "2025-02-21T13:45:34.056Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "fahrzeuge.json",
+              "DocumentMoniker": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\bin\\Debug\\net8.0\\fahrzeuge.json",
+              "RelativeDocumentMoniker": "Demo\\bin\\Debug\\net8.0\\fahrzeuge.json",
+              "ToolTip": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\bin\\Debug\\net8.0\\fahrzeuge.json",
+              "RelativeToolTip": "Demo\\bin\\Debug\\net8.0\\fahrzeuge.json",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAAEAAAAAAAAAAAAAAA==",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.001642|",
+              "WhenOpened": "2025-02-21T13:43:01.977Z",
               "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 2,
-              "Title": "Auto.cs",
-              "DocumentMoniker": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Auto.cs",
-              "RelativeDocumentMoniker": "Demo\\Auto.cs",
-              "ToolTip": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Auto.cs",
-              "RelativeToolTip": "Demo\\Auto.cs",
-              "ViewState": "AgIAABIAAAAAAAAAAAAowCcAAAAsAAAAAAAAAA==",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T13:21:16.585Z",
-              "EditorCaption": ""
-            },
-            {
-              "$type": "Document",
-              "DocumentIndex": 3,
               "Title": "Fahrzeug.cs",
-              "DocumentMoniker": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Fahrzeug.cs",
-              "RelativeDocumentMoniker": "Demo\\Fahrzeug.cs",
-              "ToolTip": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Fahrzeug.cs",
-              "RelativeToolTip": "Demo\\Fahrzeug.cs",
-              "ViewState": "AgIAAFkAAAAAAAAAAADwv2UAAAAAAAAAAAAAAA==",
+              "DocumentMoniker": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Fahrzeugpark\\Fahrzeug.cs",
+              "RelativeDocumentMoniker": "Demo\\Fahrzeugpark\\Fahrzeug.cs",
+              "ToolTip": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Fahrzeugpark\\Fahrzeug.cs",
+              "RelativeToolTip": "Demo\\Fahrzeugpark\\Fahrzeug.cs",
+              "ViewState": "AgIAAAAAAAAAAAAAAAAAAFcAAAAAAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2025-02-19T09:21:29.622Z",
+              "WhenOpened": "2025-02-21T13:41:24.956Z",
               "EditorCaption": ""
             },
             {
@@ -75,7 +75,7 @@
               "RelativeDocumentMoniker": "Demo\\Program.cs",
               "ToolTip": "C:\\Users\\de2\\OneDrive - ppedv AG\\Anlagen\\Schulungsunterlagen\\C# Grundkurs\\CSharpProgrammierung-Spracheund.NETGrundlagen-244306\\Demo\\Demo\\Program.cs",
               "RelativeToolTip": "Demo\\Program.cs",
-              "ViewState": "AgIAABwAAAAAAAAAAAAgwAkAAAABAAAAAAAAAA==",
+              "ViewState": "AgIAAAsAAAAAAAAAAAAkwBkAAABBAAAAAAAAAA==",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
               "WhenOpened": "2025-02-18T09:49:40.933Z",
               "EditorCaption": ""

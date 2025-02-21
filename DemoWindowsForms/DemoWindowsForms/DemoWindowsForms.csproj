@@ -1,0 +1,17 @@
+﻿<Project Sdk="Microsoft.NET.Sdk">
+
+  <PropertyGroup>
+    <OutputType>WinExe</OutputType>
+    <TargetFramework>net8.0-windows</TargetFramework>
+    <Nullable>enable</Nullable>
+    <UseWindowsForms>true</UseWindowsForms>
+    <ImplicitUsings>enable</ImplicitUsings>
+  </PropertyGroup>
+
+  <ItemGroup>
+    <Reference Include="Demo">
+      <HintPath>..\..\..\..\..\..\..\Downloads\CSharpProgrammierung-Spracheund.NETGrundlagen-244306-main\CSharpProgrammierung-Spracheund.NETGrundlagen-244306-main\Demo\Demo\bin\Debug\net8.0\Demo.dll</HintPath>
+    </Reference>
+  </ItemGroup>
+
+</Project>
